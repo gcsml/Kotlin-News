@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MVVMNews" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#FF5100</item>
+        <item name="colorPrimaryDark">#FF5100</item>
+        <item name="colorAccent">#FF5100</item>
+    </style>
+
+    <style name="Theme.MVVMNews" parent="Base.Theme.MVVMNews" />
+</resources>
